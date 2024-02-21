@@ -1,2 +1,2 @@
 # HCI
-snippets
+snippets to model graphs in R.
